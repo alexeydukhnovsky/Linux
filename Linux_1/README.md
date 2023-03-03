@@ -4,7 +4,8 @@
 получить навыки работы с Git, Vagrant, Packer;
 публиковать готовые образы в Vagrant Cloud.
 
-В Centos.json поправить "iso_checksum"
+В Centos.json поправить "iso_checksum",
+
 "публиковать готовые образы в Vagrant Cloud" - пришлось через веб-интерфейс, проблемы с авторизацией из консоли
 
 
